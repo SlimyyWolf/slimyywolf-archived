@@ -33,8 +33,12 @@
     color: #fff;
   }
   
-    .hero {
+     .hero {
     background-image:url(websitebannerimage.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: fixed;
+    background-size: cover;
   }
   
   .hero-container {
